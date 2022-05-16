@@ -4,7 +4,7 @@
 
 I have a forward-looking, wide-ranging goal in the name of this profession and in order to achieve this goal, I aim to be a successful engineer in my profession
 
-- 🌱 I’m currently learning .NET Core, React.js, Angular, Java
+- 🌱 I’m currently learning .NET Core, ReactNative, SpringBoot,Node.js
 - 👀 I’m interested in Backend and Frontend 
 - 📫 How to reach me: hakan.demir32@erzurum.edu.tr
  <!--Statistics-->
@@ -29,11 +29,10 @@ I have a forward-looking, wide-ranging goal in the name of this profession and i
 <img src="https://img.shields.io/badge/JavaScript-239120?style=for-the-badge&logo=javascript&logoColor=white"></img>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></img>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></img>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></img>
+
 
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></img>
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></img>
 
 
